@@ -25,6 +25,10 @@ sites:
     url: https://wallpaper.aidengrong.top
   - name: qiandao.aidengrong.top
     url: https://qiandao.aidengrong.top
+  - name: a.aidengrong.top
+    url: https://a.aidengrong.top
+  - name: b.aidengrong.top
+    url: https://b.aidengrong.top
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
