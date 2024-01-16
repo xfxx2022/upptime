@@ -3,18 +3,28 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: 番茄酱的Blog
+  - name: blog.aidengrong.top
     url: https://blog.aidengrong.top
-  - name: 番茄酱的盘
+  - name: pan.aidengrong.top
     url: https://pan.aidengrong.top
   - name: chat.aidengrong.top
     url: https://chat.aidengrong.top
+  - name: chat2.aidengrong.top
+    url: https://chat2.aidengrong.top
+  - name: chat3.aidengrong.top
+    url: https://chat3.aidengrong.top
+  - name: chat4.aidengrong.top
+    url: https://chat4.aidengrong.top
   - name: img.aidengrong.top
     url: https://img.aidengrong.top
   - name: web.aidengrong.top
     url: https://web.aidengrong.top
-  - name: chatgpt.aidengrong.top
-    url: http://chatgpt.aidengrong.top
+  - name: analytics.aidengrong.top
+    url: https://analytics.aidengrong.top
+  - name: wallpaper.aidengrong.top
+    url: https://wallpaper.aidengrong.top
+  - name: qiandao.aidengrong.top
+    url: https://qiandao.aidengrong.top
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
