@@ -29,6 +29,8 @@ sites:
     url: https://a.aidengrong.top
   - name: b.aidengrong.top
     url: https://b.aidengrong.top
+  - name: glitch搭建的xray
+    url: https://tinted-jolly-headstand.glitch.me/list
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
