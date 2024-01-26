@@ -30,7 +30,7 @@ sites:
   - name: b.aidengrong.top
     url: https://b.aidengrong.top
   - name: glitch搭建的xray
-    url: https://tinted-jolly-headstand.glitch.me/list
+    url: https://xray-glitch.deno.dev
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
