@@ -40,7 +40,7 @@
     "url": "https://chat.aidengrong.top",
     "icon": "https://icons.duckduckgo.com/ip3/chat.aidengrong.top.ico",
     "slug": "chat-aidengrong-top",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -193,7 +193,7 @@
     "time": 1490,
     "timeDay": 2075,
     "timeWeek": 1890,
-    "timeMonth": 1499,
+    "timeMonth": 1540,
     "timeYear": 1490,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 248,
     "timeDay": 99,
     "timeWeek": 229,
-    "timeMonth": 227,
+    "timeMonth": 229,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
