@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1177,
     "timeDay": 1381,
-    "timeWeek": 1172,
+    "timeWeek": 1169,
     "timeMonth": 1108,
     "timeYear": 1177,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "url": "https://xray-glitch.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/xray-glitch.deno.dev.ico",
     "slug": "glitch-xray",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
