@@ -184,7 +184,7 @@
     "url": "https://qiandao.aidengrong.top",
     "icon": "https://icons.duckduckgo.com/ip3/qiandao.aidengrong.top.ico",
     "slug": "qiandao-aidengrong-top",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 1750,
     "timeDay": 1773,
-    "timeWeek": 1865,
+    "timeWeek": 1834,
     "timeMonth": 1904,
     "timeYear": 1750,
     "dailyMinutesDown": {}
